@@ -120,16 +120,32 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p>15. Filter for DHCP traffic in Wireshark </p>
 <p>
-<img src="https://i.imgur.com/ncbjFFR.png" height="80%" width="80%" alt="Wireshark SSH"/>
+<img src="https://i.imgur.com/ncbjFFR.png" height="80%" width="80%" alt="Wireshark DHCP"/>
 </p>
 <br />
 
+<p>16. Issue a new IP address in Windows VM from the command line </p>
 
+<p>17. Observe DHCP traffic in Wireshark </p>
+<p>
+<img src="https://i.imgur.com/9y30f2i.png" height="80%" width="80%" alt="Wireshark SSH"/>
+</p>
+<br />
 
+<p>18. Filter for DNS traffic in Wireshark </p>
+<p>
+<img src="https://i.imgur.com/hllEYVs.png" height="80%" width="80%" alt="Wireshark DNS"/>
+</p>
+<br />
 
+<p>19. Observe DNS traffic in Wireshark </p>
 
+<p>20. Filter for RDP traffic in Wireshark</p>
+<p>
+<img src="https://i.imgur.com/YbN5HAK.png" height="80%" width="80%" alt="Wireshark RDP"/>
+</p>
+<br />
 
+<p>21. Observe the non-stop spam of traffic </p>
 
-
-
-
+<p>22. Close Remote Desktop and delete the resource groups/VMs </p>
