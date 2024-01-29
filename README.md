@@ -54,7 +54,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-<p>3. Use remote Remote Desktop to connect to Windows VM </p>
+<p>3. Use Remote Desktop to connect to Windows VM </p>
 
 <p>4. Install Wireshark in Windows VM </p>
 <p>
